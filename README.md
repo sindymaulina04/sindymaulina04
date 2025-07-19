@@ -3,7 +3,7 @@
   <img src="Black Gold Minimalist Elegant Business LinkedIn Banner(1).png" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sindy Maulina</h1>
+
 <p align="center">
   💻 Final-Year Informatics Student at Universitas Logistik & Bisnis Internasional (ULBI)  
   <br/>
