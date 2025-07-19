@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Sindy Maulina
 
-<!--
-**sindymaulina04/sindymaulina04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Applied Bachelor's student in Informatics Engineering at Universitas Logistik & Bisnis Internasional.  
+💻 Passionate full-stack developer and data analyst with hands-on experience in real-world web and data mining projects.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Languages & Frameworks:** PHP (Laravel, CodeIgniter), JavaScript (DOM, Js Croot), HTML, CSS, Golang  
+- **Database:** MySQL, MongoDB  
+- **Tools & Testing:** RESTful API, Postman, Git, Trello, Selenium, Katalon  
+- **Data Analytics:** Python (Pandas, Apriori, FP-Growth) using Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Notable Projects
+- **Logic Coffee Website** – A responsive coffee ordering site using HTML, CSS, JS, and WhatsAuth login  
+- **API Dropship Golaris** – RESTful API with Laravel + Midtrans integration  
+- **Market Basket Analysis** – Implemented Apriori & FP-Growth on Groceries dataset  
+- **News CMS** – A news publishing platform with CRUD and scheduling using CodeIgniter
+
+### 📫 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sindy-maulina02)
+- 💼 [GitHub](https://github.com/sindymaulina04)
+- 📬 Email: cindymaulina369@gmail.com
+
+---
+
+*"I love turning ideas into products and data into insights."*
