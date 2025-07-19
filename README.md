@@ -1,6 +1,6 @@
 <!-- Optional banner (bisa kamu ganti dengan link banner dari Canva bertema biru) -->
 <p align="center">
-  <img src="[https://github.com/sindymaulina04/sindymaulina04/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png](https://github.com/sindymaulina04/sindymaulina04/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner(1).png)" alt="banner" />
+  <img src="Black Gold Minimalist Elegant Business LinkedIn Banner(1).png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sindy Maulina</h1>
