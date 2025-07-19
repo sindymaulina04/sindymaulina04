@@ -1,49 +1,89 @@
-<img src="https://your-custom-banner-link.com" alt="banner" />
+<!-- Optional banner (bisa kamu ganti dengan link banner dari Canva bertema biru) -->
+<p align="center">
+  <img src="https://your-banner-link.com" alt="banner" />
+</p>
 
-# 👋 Hi there, I'm Sindy Maulina
-
-🎓 Final-year student in Informatics Engineering  
-💻 Full-Stack Developer | Data Analyst | QA Tester  
-📍 Based in Bandung, Indonesia
-
----
-
-## 🚀 Tech Stack
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<h1 align="center">Hi 👋, I'm Sindy Maulina</h1>
+<p align="center">
+  💻 Final-Year Informatics Student at Universitas Logistik & Bisnis Internasional (ULBI)  
+  <br/>
+  🔍 Passionate in Web Development, Data Analysis, and Software Testing  
+  <br/>
+  🌏 Based in Indonesia | 💼 Open for Internship & Collaboration
+</p>
 
 ---
 
-## 📁 Featured Projects
-- 🚀 **Logic Coffee Website**  
-  Responsive coffee shop website built with HTML, CSS, JS, JsCroot, WhatsAuth
+### 💼 About Me
 
-- 📊 **Market Basket Analysis**  
-  Analyzed 39k+ transactions using Apriori & FP-Growth in Python
-
-- 🌐 **Dropshipper API**  
-  RESTful API with Laravel, MySQL, Midtrans & Swagger Docs
-
----
-
-## 📈 GitHub Stats
-
-![Sindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sindymaulina04&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindymaulina04&layout=compact&theme=radical)
+- 🎓 I'm currently in semester 7 of D4 Teknik Informatika  
+- 🚀 Built 5+ full-stack apps using **Laravel**, **CodeIgniter**, **JavaScript**, and **RESTful APIs**  
+- 📊 Skilled in data analysis using **Python**, **Apriori**, **FP-Growth**, and **Pandas**  
+- 🔐 Experienced in manual & automated testing using **Selenium** and **Katalon Studio**  
+- 🤝 Active in campus organizations and collaborative tech projects  
+- 🛠️ Tech Interests: Fullstack Web Dev, Data Mining, QA Engineering, API Dev  
 
 ---
 
-## 📫 Connect With Me
+### 🧠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/sindy-maulina02)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cindymaulina369@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/sindymaulina04)
+#### 🌐 Frontend:
+![HTML](https://img.shields.io/badge/HTML5-0A66C2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-005FBA?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-00427E?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0077B5?style=for-the-badge&logo=javascript&logoColor=white)
+
+#### ⚙️ Backend:
+![PHP](https://img.shields.io/badge/PHP-0A66C2?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-005FBA?style=for-the-badge&logo=laravel&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00427E?style=for-the-badge&logo=go&logoColor=white)
+
+#### 🗃️ Database & Tools:
+![Supabase](https://img.shields.io/badge/Supabase-0A66C2?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005FBA?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-00427E?style=for-the-badge&logo=postman&logoColor=white)
+
+#### 📊 Data Analysis:
+![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-005FBA?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### ✅ Testing:
+![Selenium](https://img.shields.io/badge/Selenium-00427E?style=for-the-badge&logo=selenium&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-0A66C2?style=for-the-badge&logo=katalon&logoColor=white)
 
 ---
 
-✨ *"Turning ideas into functional systems and data into insights."*
+### 📌 Notable Projects
+
+- 🎫 **AUSA BEATS**  
+  *Sistem manajemen tiket konser menggunakan Golang, JavaScript & Supabase*
+
+- 📦 **Dropshipper API (Internship Project)**  
+  *RESTful API dengan Laravel, Midtrans, Swagger & MySQL*
+
+- 🧃 **Logic Coffee Website**  
+  *Frontend coffee shop site built with HTML, CSS, JS & WhatsAuth*
+
+- 🛍️ **Market Basket Analysis**  
+  *Analisis 39K transaksi menggunakan Apriori dan FP-Growth (Python)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sindymaulina04&show_icons=true&theme=blueberry" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindymaulina04&layout=compact&theme=blueberry" width="48%" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindy-maulina02)  
+[![Gmail](https://img.shields.io/badge/-Email-005FBA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cindymaulina369@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sindymaulina04)
+
+---
+
+<p align="center"><i>"I build systems that solve problems and analyze data that drives decisions."</i></p>
